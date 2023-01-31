@@ -24,10 +24,10 @@
   </dependencies>
   <build>
   	<plugins>
-  		<plugin>
-    <groupId>org.jacoco</groupId>
-    <artifactId>jacoco-maven-plugin</artifactId>
-    <version>0.7.7.201606060606</version>
+  <groupId>org.jacoco</groupId>
+  <artifactId>jacoco-maven-plugin</artifactId>
+  <version>0.8.9-SNAPSHOT</version>
+</plugin>
     <executions>
         <execution>
             <goals>
